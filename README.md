@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Prerequisit
+
+Please make sure that [Node.js](https://nodejs.org/en/download/package-manager) (version 18.17 or later)
+
 ## Getting Started
 
 After clone this repository, you need to install the dependencies like :
